@@ -255,3 +255,4 @@ if __name__ == "__main__":
     t = content.replace("https://www.baidu.com/", res)
     with open(jsonPath, "w") as f2:
         f2.write(t)
+    print("打包成功！")
