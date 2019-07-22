@@ -256,3 +256,4 @@ if __name__ == "__main__":
     with open(jsonPath, "w") as f2:
         f2.write(t)
     print("打包成功！")
+    print(“2019.7.22”)
